@@ -17,7 +17,7 @@ This Kotlin program extracts frames from the "bad_apple.mp4" video file and rend
 2. **Navigate to the Directory**: Change directory to the cloned repository.
 
    ```bash
-   cd bad-apple-ascii
+   cd BadAppleKT
    ```
 
 3. **Compile and Run**: Compile and run the Kotlin program using Gradle.
