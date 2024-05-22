@@ -1,0 +1,31 @@
+import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.9.23'
+    id 'application'
+}
+
+group = 'shinni.badapple'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.1")
+}
+
+application {
+    mainClass = 'shinni.badapple.MainKt'
+}
+
+tasks.test {
+    useJUnitPlatform()
+}
+
+tasks.withType(KotlinCompile) {
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+}
