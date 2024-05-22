@@ -37,14 +37,11 @@ Upon running the program, it will extract frames from the "bad_apple.mp4" video 
 
 ## Credits
 
-This program is inspired by the ["Bad Apple!!"](https://github.com/fumiya-kume/BadAppleK?tab=readme-ov-file) music video.
-ASCII art conversion logic adapted from various online sources.
+This program is inspired by the ["BadAppleK"](https://github.com/fumiya-kume/BadAppleK?tab=readme-ov-file) repo.
 
 ## License
 
 This project is licensed under the [GNU General Public License (GPL)](LICENSE).
-
-For detailed information on usage and contributions, please refer to the project's [GitHub repository](https://github.com/shinni715/bad-apple-ascii).
 
 ## Author
 
