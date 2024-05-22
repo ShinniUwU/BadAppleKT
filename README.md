@@ -45,7 +45,7 @@ This project is licensed under the [GNU General Public License (GPL)](LICENSE).
 
 ## Author
 
-Developed by [Your Name] ([Your GitHub Profile](https://github.com/yourusername)).
+Developed by Hana (ME :3).
 
 Feel free to contribute, report issues, or suggest improvements!
 
