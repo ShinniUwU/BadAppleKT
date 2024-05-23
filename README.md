@@ -4,7 +4,7 @@
 This Kotlin program extracts frames from the "bad_apple.mp4" video file and renders them as ASCII art in the terminal while playing the accompanying audio. It's inspired by the "Bad Apple!!" music video.
 
 ## Review 
-![Review](review/review.mp4)
+[![Review](https://i9.ytimg.com/vi/qcxEl_IHdvQ/mqdefault.jpg?sqp=CKzxu7IG&rs=AOn4CLCOzBDeLNxvVnzP8s-I0MIWanWbkw&retry=3)]([https://www.youtube.com/watch?v=YourVideoID](https://youtu.be/qcxEl_IHdvQ))
 
 ## Installation and Usage
 
